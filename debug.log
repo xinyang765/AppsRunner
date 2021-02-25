@@ -1,8 +1,0 @@
-[0225/170818.673:ERROR:main_delegate.cc(715)] Could not load locale pak for en-US
-[0225/170818.731:ERROR:gpu_process_transport_factory.cc(1026)] Lost UI shared context.
-[0225/170818.986:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
-[0225/170818.986:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Program Files (x86)\Xiami\cef_cache\Cache to C:\Program Files (x86)\Xiami\cef_cache\old_Cache_000
-[0225/170818.986:ERROR:disk_cache.cc(169)] Unable to create cache
-[0225/170820.489:ERROR:main_delegate.cc(715)] Could not load locale pak for en-US
-[0225/170820.509:ERROR:main_delegate.cc(715)] Could not load locale pak for en-US
-[0225/170820.784:ERROR:viz_main_impl.cc(201)] Exiting GPU process due to errors during initialization
